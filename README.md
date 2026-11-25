@@ -142,9 +142,9 @@ display(importances)
 
 <img width="738" height="267" alt="image" src="https://github.com/user-attachments/assets/def94cdf-eab4-4fae-a493-825f0540e430" />
 
-<img width="492" height="230" alt="image" src="https://github.com/user-attachments/assets/34d7a0e7-7e67-4ebf-af68-9216b9f2d933" />
-
 <img width="1355" height="865" alt="image" src="https://github.com/user-attachments/assets/64b0b178-a724-4bb8-b0e0-a5f743b2b22b" />
+
+<img width="492" height="230" alt="image" src="https://github.com/user-attachments/assets/34d7a0e7-7e67-4ebf-af68-9216b9f2d933" />
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
